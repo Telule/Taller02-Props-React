@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Description of Project
+
+Project that contains the use of props, state and events.
+
+In the project directory, you can run:
+
+
 ## Available Scripts
 
 In the project directory, you can run:
